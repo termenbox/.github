@@ -10,3 +10,7 @@ Termenbox is a self-hosted web terminal for AI coding agents such as Claude Code
   ```
 
 - Support: ask in [GitHub Discussions](https://github.com/termenbox/termenbox/discussions) of the product repository. See [SUPPORT.md](../SUPPORT.md) for what a good question contains.
+
+## License
+
+Termenbox is free to use under its end user licence, which is published with the [product repository](https://github.com/termenbox/termenbox). Third-party notices are in the NOTICES file there. For questions, use [GitHub Discussions](https://github.com/termenbox/termenbox/discussions).
